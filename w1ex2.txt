@@ -1,0 +1,15 @@
+
+1. Wszystkie elementy <div>, posiadające zarówno klasę “grid” oraz klasę “grid-12”.
+
+Class Selector(".class") czyli
+
+<div class ="grid"></div>
+<div class ="grid-12"></div>
+
+var cl = $(".grid.grid-12");
+
+
+
+
+
+
